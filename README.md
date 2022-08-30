@@ -1,3 +1,3 @@
 # DredgeTest
 #cghange
-A repository for teach hello
+A repository for teaching stuff
